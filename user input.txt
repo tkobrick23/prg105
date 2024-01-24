@@ -1,0 +1,9 @@
+housing cost input("30*12")
+utilities cost input("10*12")
+groceries cost input("20*12")
+Transportation cost input("5*12")
+health care cost input("20*12")
+personal care cost input("15*12")
+clothing cost input("40*12")
+debt cost input("20*12")
+total cost input("add total here") user will add total cost here 
